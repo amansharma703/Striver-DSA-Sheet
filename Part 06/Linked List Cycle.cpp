@@ -34,7 +34,7 @@ public:
 
 
 /*
-    Solution 1 : 2 Pointer - Classic Tortoise Hare
+    Solution 2 : 2 Pointer - Classic Tortoise Hare
     Time complexity : O(N)
     Space Complexity : O(1)
 
